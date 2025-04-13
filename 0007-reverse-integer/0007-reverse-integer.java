@@ -6,9 +6,9 @@ class Solution {
             int a = n % 10;
             
             n = n / 10;
-            if (rev > Integer.MAX_VALUE / 10 || (rev == Integer.MAX_VALUE / 10 && a > 7))
+            if (rev > Integer.MAX_VALUE / 10 )
                 return 0;
-            if (rev < Integer.MIN_VALUE / 10 || (rev == Integer.MIN_VALUE / 10 && a < -8))
+            if (rev < Integer.MIN_VALUE / 10 )
                 return 0;
                 rev = rev * 10 + a;
         }
