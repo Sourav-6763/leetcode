@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sourav-6763/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sourav-6763/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sourav-6763/leetcode/tree/master/0066-plus-one) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourav-6763/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sourav-6763/leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Sourav-6763/leetcode/tree/master/0066-plus-one) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourav-6763/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 <!---LeetCode Topics End-->
