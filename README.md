@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav-6763/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sourav-6763/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Sourav-6763/leetcode/tree/master/0066-plus-one) |
+| [0137-single-number-ii](https://github.com/Sourav-6763/leetcode/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Sourav-6763/leetcode/tree/master/0179-largest-number) |
 | [0837-most-common-word](https://github.com/Sourav-6763/leetcode/tree/master/0837-most-common-word) |
 | [0932-monotonic-array](https://github.com/Sourav-6763/leetcode/tree/master/0932-monotonic-array) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Sourav-6763/leetcode/tree/master/0179-largest-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Sourav-6763/leetcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
