@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sourav-6763/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Sourav-6763/leetcode/tree/master/0242-valid-anagram) |
 | [0837-most-common-word](https://github.com/Sourav-6763/leetcode/tree/master/0837-most-common-word) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sourav-6763/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Sourav-6763/leetcode/tree/master/0260-single-number-iii) |
 | [0837-most-common-word](https://github.com/Sourav-6763/leetcode/tree/master/0837-most-common-word) |
 | [0932-monotonic-array](https://github.com/Sourav-6763/leetcode/tree/master/0932-monotonic-array) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sourav-6763/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourav-6763/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Counting
 |  |
@@ -72,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Sourav-6763/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Sourav-6763/leetcode/tree/master/0260-single-number-iii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sourav-6763/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 <!---LeetCode Topics End-->
