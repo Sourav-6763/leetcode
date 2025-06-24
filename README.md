@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sourav-6763/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sourav-6763/leetcode/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/Sourav-6763/leetcode/tree/master/0415-add-strings) |
+| [1031-add-to-array-form-of-integer](https://github.com/Sourav-6763/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourav-6763/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Sourav-6763/leetcode/tree/master/0260-single-number-iii) |
 | [0837-most-common-word](https://github.com/Sourav-6763/leetcode/tree/master/0837-most-common-word) |
 | [0932-monotonic-array](https://github.com/Sourav-6763/leetcode/tree/master/0932-monotonic-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/Sourav-6763/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [2634-minimum-common-value](https://github.com/Sourav-6763/leetcode/tree/master/2634-minimum-common-value) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sourav-6763/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourav-6763/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
