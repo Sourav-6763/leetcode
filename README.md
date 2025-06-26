@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sourav-6763/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sourav-6763/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Sourav-6763/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Sourav-6763/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Sourav-6763/leetcode/tree/master/0242-valid-anagram) |
 | [0837-most-common-word](https://github.com/Sourav-6763/leetcode/tree/master/0837-most-common-word) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav-6763/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sourav-6763/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Sourav-6763/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Sourav-6763/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sourav-6763/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sourav-6763/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/Sourav-6763/leetcode/tree/master/0137-single-number-ii) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/Sourav-6763/leetcode/tree/master/3221-find-the-peaks) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sourav-6763/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
