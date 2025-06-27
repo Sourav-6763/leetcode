@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sourav-6763/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sourav-6763/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sourav-6763/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Sourav-6763/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sourav-6763/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sourav-6763/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Sourav-6763/leetcode/tree/master/0202-happy-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sourav-6763/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav-6763/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sourav-6763/leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Sourav-6763/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sourav-6763/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sourav-6763/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sourav-6763/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sourav-6763/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sourav-6763/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
