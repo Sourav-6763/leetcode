@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sourav-6763/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sourav-6763/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/Sourav-6763/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sourav-6763/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sourav-6763/leetcode/tree/master/0344-reverse-string) |
 | [2634-minimum-common-value](https://github.com/Sourav-6763/leetcode/tree/master/2634-minimum-common-value) |
 ## String Matching
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Sourav-6763/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Sourav-6763/leetcode/tree/master/0179-largest-number) |
 | [0260-single-number-iii](https://github.com/Sourav-6763/leetcode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Sourav-6763/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0837-most-common-word](https://github.com/Sourav-6763/leetcode/tree/master/0837-most-common-word) |
 | [0932-monotonic-array](https://github.com/Sourav-6763/leetcode/tree/master/0932-monotonic-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sourav-6763/leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -104,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sourav-6763/leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Sourav-6763/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Sourav-6763/leetcode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Sourav-6763/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sourav-6763/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Sourav-6763/leetcode/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Sourav-6763/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2634-minimum-common-value](https://github.com/Sourav-6763/leetcode/tree/master/2634-minimum-common-value) |
 ## Simulation
 |  |
