@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sourav-6763/leetcode/tree/master/0179-largest-number) |
 | [0260-single-number-iii](https://github.com/Sourav-6763/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Sourav-6763/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0506-relative-ranks](https://github.com/Sourav-6763/leetcode/tree/master/0506-relative-ranks) |
 | [0837-most-common-word](https://github.com/Sourav-6763/leetcode/tree/master/0837-most-common-word) |
 | [0932-monotonic-array](https://github.com/Sourav-6763/leetcode/tree/master/0932-monotonic-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sourav-6763/leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Sourav-6763/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Sourav-6763/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Sourav-6763/leetcode/tree/master/0242-valid-anagram) |
+| [0506-relative-ranks](https://github.com/Sourav-6763/leetcode/tree/master/0506-relative-ranks) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sourav-6763/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Sourav-6763/leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 ## Greedy
@@ -154,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Sourav-6763/leetcode/tree/master/0506-relative-ranks) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sourav-6763/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
