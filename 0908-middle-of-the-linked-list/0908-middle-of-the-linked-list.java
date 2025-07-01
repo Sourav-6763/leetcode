@@ -21,7 +21,6 @@ class Solution {
         ListNode ptr2=head;
         for(int i=0;i<count;i++){
             if(idx==i){
-                System.out.println(i);
                 head=ptr2;
                 break;
             }
