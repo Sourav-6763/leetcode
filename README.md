@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sourav-6763/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Sourav-6763/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Sourav-6763/leetcode/tree/master/0242-valid-anagram) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Sourav-6763/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0837-most-common-word](https://github.com/Sourav-6763/leetcode/tree/master/0837-most-common-word) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sourav-6763/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2634-minimum-common-value](https://github.com/Sourav-6763/leetcode/tree/master/2634-minimum-common-value) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sourav-6763/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sourav-6763/leetcode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/Sourav-6763/leetcode/tree/master/0415-add-strings) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Sourav-6763/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0837-most-common-word](https://github.com/Sourav-6763/leetcode/tree/master/0837-most-common-word) |
 ## Two Pointers
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Sourav-6763/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Sourav-6763/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0506-relative-ranks](https://github.com/Sourav-6763/leetcode/tree/master/0506-relative-ranks) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Sourav-6763/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0837-most-common-word](https://github.com/Sourav-6763/leetcode/tree/master/0837-most-common-word) |
 | [0932-monotonic-array](https://github.com/Sourav-6763/leetcode/tree/master/0932-monotonic-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sourav-6763/leetcode/tree/master/1031-add-to-array-form-of-integer) |
