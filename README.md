@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sourav-6763/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sourav-6763/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sourav-6763/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Sourav-6763/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sourav-6763/leetcode/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/Sourav-6763/leetcode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sourav-6763/leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sourav-6763/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Sourav-6763/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sourav-6763/leetcode/tree/master/0118-pascals-triangle) |
 ## Divide and Conquer
 |  |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sourav-6763/leetcode/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sourav-6763/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
