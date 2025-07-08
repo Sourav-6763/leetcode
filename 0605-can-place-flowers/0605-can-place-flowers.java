@@ -20,7 +20,6 @@ ab.add(0);
             }
          }
        }
-    System.out.println(ab);
        return n==0? true:false;
     }
 }
