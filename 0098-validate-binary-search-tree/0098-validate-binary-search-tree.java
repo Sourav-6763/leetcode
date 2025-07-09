@@ -17,7 +17,6 @@ class Solution {
     public boolean isValidBST(TreeNode root) {
         List<Integer> res=new ArrayList<>();
         helper(root,res);
-        System.out.println(res);
         return sortCheck(res);
     }
     public void helper(TreeNode root,List<Integer> res){
