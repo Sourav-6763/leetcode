@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sourav-6763/leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Sourav-6763/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Sourav-6763/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Sourav-6763/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sourav-6763/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sourav-6763/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sourav-6763/leetcode/tree/master/0066-plus-one) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sourav-6763/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Sourav-6763/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sourav-6763/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sourav-6763/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
