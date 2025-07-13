@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sourav-6763/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sourav-6763/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Sourav-6763/leetcode/tree/master/0455-assign-cookies) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Sourav-6763/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sourav-6763/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sourav-6763/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/Sourav-6763/leetcode/tree/master/2634-minimum-common-value) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Sourav-6763/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sourav-6763/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sourav-6763/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Sourav-6763/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sourav-6763/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sourav-6763/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sourav-6763/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
