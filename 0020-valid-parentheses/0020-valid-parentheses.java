@@ -1,27 +1,30 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> sp = new Stack<>();
+        Stack<Character> ab = new Stack<>();
         for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (c == '(' || c == '{' || c == '[') {
-                sp.push(c);
+            if (s.charAt(i) == '(') {
+                ab.push(')');
             }
-            // If the character is a closing bracket, check if it matches the top of the stack
-            else if (c == ')' && !sp.isEmpty() && sp.peek() == '(') {
-                sp.pop();
-            } 
-            else if (c == '}' && !sp.isEmpty() && sp.peek() == '{') {
-                sp.pop();
-            } 
-            else if (c == ']' && !sp.isEmpty() && sp.peek() == '[') {
-                sp.pop();
-            } 
-            else {
-                // If any of the conditions fail, return false
-                return false;
+            else if (s.charAt(i) == '{') {
+                ab.push('}');
+            }
+            else if (s.charAt(i) == '[') {
+                ab.push(']');
+            } else {
+                if (!ab.isEmpty()) {
+                    char val = ab.peek();
+                    if (val == s.charAt(i)) {
+                        ab.pop();
+                    } else {
+                        return false;
+                    }
+                } else {
+                    return false;
+                }
+
             }
         }
-            return  sp.isEmpty();
-        
+        return ab.isEmpty();
+
     }
 }
