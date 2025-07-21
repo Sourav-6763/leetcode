@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Sourav-6763/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sourav-6763/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sourav-6763/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Sourav-6763/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Sourav-6763/leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2634-minimum-common-value](https://github.com/Sourav-6763/leetcode/tree/master/2634-minimum-common-value) |
 | [3221-find-the-peaks](https://github.com/Sourav-6763/leetcode/tree/master/3221-find-the-peaks) |
