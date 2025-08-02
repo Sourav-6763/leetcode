@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sourav-6763/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sourav-6763/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sourav-6763/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Sourav-6763/leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Sourav-6763/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Sourav-6763/leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Sourav-6763/leetcode/tree/master/0164-maximum-gap) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sourav-6763/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sourav-6763/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Sourav-6763/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Sourav-6763/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Sourav-6763/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Sourav-6763/leetcode/tree/master/0605-can-place-flowers) |
