@@ -1,21 +1,25 @@
 class Solution {
     public int trap(int[] height) {
-        ArrayList<Integer> left=new ArrayList<Integer>();
-        ArrayList<Integer> right=new ArrayList<Integer>();
-        int leftMax=0;
-        for (int i=0;i<height.length;i++){
-            leftMax=Math.max(height[i],leftMax);
-            left.add(leftMax);
+        int n=height.length-1;
+        List<Integer> left = new ArrayList<>();
+        List<Integer> right = new ArrayList<>();
+        int max = 0;
+        for (int i : height) {
+            max=Math.max(max, i);
+            left.add(max);
+
         }
-        int rightMax=0;
-        for (int i=height.length-1;i>=0;i--){
-            rightMax=Math.max(height[i],rightMax);
-            right.add(rightMax);
+        int max2 = 0;
+        for (int i=n;i>=0;i--) {
+            max2=Math.max(max2, height[i]);
+            right.add(max2);
+
         }
-        Collections.reverse(left);
+        Collections.reverse(right);
         int sum=0;
-        for(int i=0;i<height.length;i++){
-            sum+=Math.min(left.get(i),right.get(i))-height[i];
+        for(int i=0;i<n;i++){
+            int Min=Math.min(left.get(i),right.get(i));
+            sum+=Min-height[i];
         }
         return sum;
     }
