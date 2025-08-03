@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sourav-6763/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sourav-6763/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Sourav-6763/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sourav-6763/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sourav-6763/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Sourav-6763/leetcode/tree/master/0058-length-of-last-word) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sourav-6763/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sourav-6763/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Sourav-6763/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sourav-6763/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sourav-6763/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav-6763/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -389,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sourav-6763/leetcode/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sourav-6763/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
