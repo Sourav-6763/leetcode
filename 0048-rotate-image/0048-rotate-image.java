@@ -2,21 +2,29 @@ class Solution {
     public void rotate(int[][] matrix) {
         int rows = matrix.length;
         int column = matrix[0].length;
-        int[][] ab = new int[rows][column];
 
-        for (int i = 0; i < column; i++) {
-            for (int j = 0; j < rows; j++) {
-                ab[i][j] = matrix[i][j];
+        for (int i = 0; i < rows; i++) {
+            for (int j = i + 1; j < rows; j++) {
+                int temp = matrix[i][j];
+                matrix[i][j] = matrix[j][i];
+                matrix[j][i] = temp;
             }
         }
 
-        int col = matrix[0].length - 1;
-        for (int i = 0; i < column; i++) {
-            for (int j = 0; j < rows; j++) {
-                matrix[j][col] = ab[i][j];
+      
+        
+        for(int i=0;i<rows;i++){
+            int left=0;
+            int right=rows-1;
+            while(left<right){
+                int temp=matrix[i][right];
+                matrix[i][right]=matrix[i][left];
+                matrix[i][left]=temp;
+                left++;
+                right--;
             }
-            col--;
         }
+        
 
     }
 }
