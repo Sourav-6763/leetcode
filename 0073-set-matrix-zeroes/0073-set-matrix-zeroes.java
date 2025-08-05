@@ -1,28 +1,32 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        ArrayList<List<Integer>> ab = new ArrayList<>();
+
         int rows = matrix.length;
         int cols = matrix[0].length;
+        boolean[][] check = new boolean[rows][cols];
+
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 if (matrix[i][j] == 0) {
-                    ab.add(Arrays.asList(i, j));
+                    check[i][j] = true;
+                } else {
+                    check[i][j] = false;
                 }
             }
         }
 
-        System.out.println(ab);
-        for (List<Integer> p : ab) {
-            int row = p.get(0);
-            int col = p.get(1);
-            for (int i = 0; i < cols; i++) {
-                matrix[row][i] = 0;
-            }
-            for (int j = 0; j < rows; j++) {
-                matrix[j][col] = 0;
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                if (check[i][j]) {
+                    for (int k = 0; k < cols; k++) {
+                        matrix[i][k]=0;
+                    }
+                    for (int k = 0; k < rows; k++) {
+                        matrix[k][j]=0;
+                    }
 
+                }
             }
-
         }
 
     }
