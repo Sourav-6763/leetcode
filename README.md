@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Sourav-6763/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sourav-6763/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sourav-6763/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0937-online-stock-span](https://github.com/Sourav-6763/leetcode/tree/master/0937-online-stock-span) |
 ## Array
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sourav-6763/leetcode/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/Sourav-6763/leetcode/tree/master/0937-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Sourav-6763/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sourav-6763/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sourav-6763/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0937-online-stock-span](https://github.com/Sourav-6763/leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -433,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sourav-6763/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Sourav-6763/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
