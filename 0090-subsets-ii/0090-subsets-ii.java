@@ -1,19 +1,20 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        Arrays.sort(nums); 
-        Set<List<Integer>> res=new HashSet<>();
-        helper(nums,0,new ArrayList<>(),res);
-        List<List<Integer>> ab=new ArrayList<>(res);
-        return ab;
+        Arrays.sort(nums);
+        Set<List<Integer>> temp=new HashSet<>();
+        solver(0,temp,new ArrayList<>(),nums);
+        List<List<Integer>> res=new ArrayList<>(temp);
+        return res;
     }
-    public void helper(int[] nums,int idx,List<Integer>path,Set<List<Integer>> res){
+    public void solver(int idx,Set<List<Integer>> temp ,ArrayList<Integer> demo,int[] nums){
         if(idx==nums.length){
-            res.add(new ArrayList<>(path));
+            temp.add(new ArrayList<>(demo));
             return;
         }
-        path.add(nums[idx]);
-        helper(nums,idx+1,path,res);
-        path.remove(path.size()-1);
-        helper(nums,idx+1,path,res);
+        demo.add(nums[idx]);
+        solver(idx+1,temp,demo,nums);
+        demo.remove(demo.size()-1);
+        solver(idx+1,temp,demo,nums);
+
     }
 }
