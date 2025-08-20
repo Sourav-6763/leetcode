@@ -10,23 +10,21 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        StringBuilder ab = new StringBuilder();
-        // StringBuilder ab2 = new StringBuilder();
-        // Stack<Integer> stack = new Stack<>();
         ListNode ptr = head;
+        StringBuilder ab = new StringBuilder();
         while (ptr != null) {
             ab.append(ptr.val);
-            // stack.add(ptr.val);
             ptr = ptr.next;
-
         }
-        // while (!stack.isEmpty()) {
-        //     ab2.append(stack.pop());
-        // }
-        String ab2 =new StringBuilder(ab).reverse().toString();
-        if (ab.toString().equals(ab2)) {
-            return true;
+        int left = 0;
+        int right = ab.length()-1;
+        while (left < right) {
+            if (ab.charAt(left) != ab.charAt(right)) {
+                return false;
+            }
+            left++;
+            right--;
         }
-        return false;
+        return true;
     }
 }
