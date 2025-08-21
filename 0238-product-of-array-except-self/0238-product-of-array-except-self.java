@@ -1,20 +1,18 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-         int n = nums.length;
-        List<Integer> prefix = new ArrayList<>();
-        List<Integer> suffix = new ArrayList<>();
-        prefix.add(1);
+        ArrayList<Integer> pree = new ArrayList<>();
+        ArrayList<Integer> suff = new ArrayList<>(Collections.nCopies(nums.length, 1));
+        pree.add(1);
         for (int i = 1; i < nums.length; i++) {
-            prefix.add(prefix.get(i - 1) * nums[i - 1]);
+            pree.add(pree.get(i - 1) * nums[i - 1]);
         }
-        suffix = new ArrayList<>(Collections.nCopies(n, 1));
-        for (int i = n - 2; i >= 0; i--) {
-           suffix.set(i,suffix.get(i+1)*nums[i+1]);
+        for (int i = nums.length - 2; i >= 0; i--) {
+            suff.set(i, suff.get(i + 1) * nums[i + 1]);
         }
-        int[] result = new int[n];
-        for (int i = 0; i < n; i++) {
-            result[i] = prefix.get(i) * suffix.get(i);
-        }
+        int[] result = new int[nums.length];
+      for(int i=0;i<nums.length;i++){
+         result[i]=pree.get(i)*suff.get(i);
+      }
         return result;
     }
 }
