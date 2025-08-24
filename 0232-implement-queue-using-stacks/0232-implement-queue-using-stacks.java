@@ -1,38 +1,36 @@
 class MyQueue {
-  private Stack<Integer> stackIn;
-  private Stack<Integer> stackOut;
+    Stack<Integer> stackIn=new Stack<>();
+    Stack<Integer> stackout=new Stack<>();
     public MyQueue() {
-        stackIn =new Stack<>();
-        stackOut =new Stack<>();
+        stackIn=new Stack<>();
+        stackout=new Stack<>();
+
     }
+    
     public void push(int x) {
         stackIn.push(x);
     }
     
-    public int pop() {
-        Shifted();
-       return  stackOut.pop();
+    public int pop(){
+        if(stackout.isEmpty()){
+            while(!stackIn.isEmpty()){
+                stackout.push(stackIn.pop());
+            }
+        }
+        return stackout.pop();
     }
     
     public int peek() {
-        Shifted();
-        return stackOut.peek();
+        if(stackout.isEmpty()){
+            while(!stackIn.isEmpty()){
+                stackout.push(stackIn.pop());
+            }
+        }
+        return stackout.peek();
     }
     
     public boolean empty() {
-        if(stackIn.isEmpty() && stackOut.isEmpty()){
-            return true;
-        }
-        else{
-            return false;
-        }
-    }
-    public void Shifted(){
-        if(stackOut.isEmpty()){
-            while(!stackIn.isEmpty()){
-            stackOut.push(stackIn.pop());
-            }
-        }
+        return stackIn.isEmpty() && stackout.isEmpty();
     }
 }
 
