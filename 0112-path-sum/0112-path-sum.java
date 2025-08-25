@@ -20,17 +20,16 @@ class Solution {
     }
 
     public boolean solver(TreeNode root, int targetSum, int sum) {
-        if (root == null) {
+        if (root == null)
+            return false;
+            sum += root.val;
+        if (sum == targetSum && root.left == null && root.right == null) {
+            return true;
+        }
+         if (root.left == null && root.right == null) {
             return false;
         }
-        sum=sum+root.val;
-        if(root.left==null &&root.right==null){
-           if(sum==targetSum){
-            return true;
-           }
-        }
-       boolean left= solver(root.left,targetSum,sum);
-       boolean right= solver(root.right,targetSum,sum);
-       return left ||right;
+        return solver(root.left, targetSum, sum) ||
+                solver(root.right, targetSum, sum);
     }
 }
