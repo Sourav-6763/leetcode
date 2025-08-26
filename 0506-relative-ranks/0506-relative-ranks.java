@@ -1,32 +1,30 @@
 class Solution {
-    public String[] findRelativeRanks(int[] score) {   
-         List<List<Integer>> ab = new ArrayList<>();
-         int idx=0;
-        for(int i:score){
-            ab.add(Arrays.asList(i,idx++));
+    public String[] findRelativeRanks(int[] score) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        String[] res = new String[score.length];
+        int j = 0;
+        for (int i : score) {
+            map.put(i, j);
+            j++;
         }
-        
-        ab.sort((a, b) -> b.get(0) - a.get(0));
-        String [] abc=new String[score.length];
-        int count=4;
-        for(int i=0;i<score.length;i++){
-            int ap=ab.get(i).get(1);
-            if(i==0){
-            abc[ap]="Gold Medal";
-            }
-            else if(i==1){
-            abc[ap]="Silver Medal";
-            }
-            else if(i==2){
-            abc[ap]="Bronze Medal";
+        Arrays.sort(score);
+        int k = 1;
+        for (int i = score.length - 1; i >= 0; i--) {
+            if (k == 1) {
+                int key = map.get(score[i]);
+                res[key] = "Gold Medal";
+            } else if (k == 2) {
+                int key = map.get(score[i]);
+                res[key] = "Silver Medal";
+            } else if (k == 3) {
+                int key = map.get(score[i]);
+                res[key] = "Bronze Medal";
             }
             else{
-                abc[ap]=String.valueOf(count);
-                count++;
+               res[map.get(score[i])]=Integer.toString(k);
             }
-
+            k++;
         }
-        return abc;
-
+        return res;
     }
 }
