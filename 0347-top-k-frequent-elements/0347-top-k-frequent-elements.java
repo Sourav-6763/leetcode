@@ -10,15 +10,12 @@ class Solution {
                 map.put(nums[i],1);
             }
         }
-        List<Map.Entry<Integer, Integer>> list = new ArrayList<>(map.entrySet());
-        list.sort((a, b) -> b.getValue() - a.getValue());
-        
-        // Extract the top k elements
-        int[] result = new int[k];
-        for (int i = 0; i < k; i++) {
-            result[i] = list.get(i).getKey();
+        ArrayList<Map.Entry<Integer, Integer>> entries =new ArrayList<>(map.entrySet());
+        int [] res=new int[k];
+        Collections.sort(entries,(a,b) ->b.getValue()-a.getValue());
+        for(int i=0;i<k;i++){
+            res[i]=entries.get(i).getKey();
         }
-
-        return result;
+        return res;
     }
 }
