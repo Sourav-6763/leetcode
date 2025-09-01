@@ -10,14 +10,14 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode ptr = head;
         StringBuilder ab = new StringBuilder();
+        ListNode ptr = head;
         while (ptr != null) {
             ab.append(ptr.val);
             ptr = ptr.next;
         }
         int left = 0;
-        int right = ab.length()-1;
+        int right = ab.length() - 1;
         while (left < right) {
             if (ab.charAt(left) != ab.charAt(right)) {
                 return false;
