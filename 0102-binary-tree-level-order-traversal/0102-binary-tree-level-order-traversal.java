@@ -4,23 +4,18 @@ class Solution {
         if (root == null) return res;
 
         Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
-
-        while (!queue.isEmpty()) {
-            int levelSize = queue.size();
-            List<Integer> level = new ArrayList<>();
-
-            for (int i = 0; i < levelSize; i++) {
-                TreeNode node = queue.poll();
-                level.add(node.val);
-
-                if (node.left != null) queue.add(node.left);
-                if (node.right != null) queue.add(node.right);
+        queue.offer(root);
+        while(!queue.isEmpty()){
+            int size=queue.size();
+            List<Integer> demo=new ArrayList<>();
+            for(int i=0;i<size;i++){
+                TreeNode temp=queue.poll();
+                demo.add(temp.val);
+                if(temp.left !=null) queue.offer(temp.left);
+                if(temp.right!=null) queue.offer(temp.right);
             }
-
-            res.add(level);
+            res.add(demo);
         }
-
         return res;
     }
 }
