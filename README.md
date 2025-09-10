@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Sourav-6763/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sourav-6763/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sourav-6763/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Sourav-6763/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sourav-6763/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sourav-6763/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sourav-6763/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sourav-6763/leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Sourav-6763/leetcode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Sourav-6763/leetcode/tree/master/0605-can-place-flowers) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Sourav-6763/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sourav-6763/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
