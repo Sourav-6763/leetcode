@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sourav-6763/leetcode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sourav-6763/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sourav-6763/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sourav-6763/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sourav-6763/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/Sourav-6763/leetcode/tree/master/2634-minimum-common-value) |
 ## String Matching
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Sourav-6763/leetcode/tree/master/0837-most-common-word) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sourav-6763/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0932-monotonic-array](https://github.com/Sourav-6763/leetcode/tree/master/0932-monotonic-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sourav-6763/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sourav-6763/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sourav-6763/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sourav-6763/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sourav-6763/leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Sourav-6763/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Sourav-6763/leetcode/tree/master/0506-relative-ranks) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sourav-6763/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sourav-6763/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Sourav-6763/leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sourav-6763/leetcode/tree/master/2887-sort-vowels-in-a-string) |
