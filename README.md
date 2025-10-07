@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sourav-6763/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sourav-6763/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Sourav-6763/leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Sourav-6763/leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Sourav-6763/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Sourav-6763/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Sourav-6763/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sourav-6763/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Sourav-6763/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sourav-6763/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Sourav-6763/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sourav-6763/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sourav-6763/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
