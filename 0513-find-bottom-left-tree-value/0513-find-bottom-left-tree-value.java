@@ -14,24 +14,19 @@
  * }
  */
 class Solution {
-    private int maxLevel = -1;
-    private int res = 0;
-    public int findBottomLeftValue(TreeNode root){
-
+    private int res=0;
+    private int maxDepth=-1;
+    public int findBottomLeftValue(TreeNode root) {
         solver(root,1);
         return res;
     }
-
-    public void solver(TreeNode root,int level){
-        if(root==null){
-          return;
-        }
-        if(maxLevel<level){
-            maxLevel=level;
+    public void solver(TreeNode root,int Idx){
+        if(root==null) return;
+        if(maxDepth<Idx){
+            maxDepth=Idx;
             res=root.val;
         }
-        solver(root.left,level+1);
-        solver(root.right,level+1);
+        if(root.left!=null)solver(root.left,Idx+1);
+        if(root.right!=null)solver(root.right,Idx+1);
     }
-    
 }
