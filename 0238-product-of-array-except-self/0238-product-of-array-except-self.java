@@ -1,24 +1,23 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        ArrayList<Integer> pree = new ArrayList<>();
-        int [] res=new int[nums.length];
-        int [] suff=new int[nums.length];
-        for(int i=0;i<suff.length;i++){
-            suff[i]=1;
+        int n = nums.length;
+        int[] res = new int[n];
+        int[] pree = new int[n];
+        int[] suff = new int[n];
+        pree[0] = 1;
+        for (int i = 0; i < n-1; i++) {
+            pree[i + 1] = nums[i] * pree[i];
         }
-        pree.add(1);
-        for(int i=1;i<nums.length;i++){
-            pree.add(nums[i-1]*pree.get(i-1));
+        suff[n-1]=1;
+        for(int i=n-1;i>0;i--){
+            suff[i-1]=suff[i]*nums[i];
         }
-        for(int i=nums.length-2;i>=0;i--){
-            suff[i]=nums[i+1]*suff[i+1];
+        for (int i = 0; i < n; i++) {
+            System.out.println(suff[i]);
         }
-        for(int i=0;i<res.length;i++){
-          res[i]=pree.get(i)*suff[i];
+        for(int i=0;i<n;i++){
+            res[i]=pree[i]*suff[i];
         }
-        
-        
         return res;
-       
     }
 }
