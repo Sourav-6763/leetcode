@@ -8,15 +8,16 @@ class Solution {
         map.put('C', 100);
         map.put('D', 500);
         map.put('M', 1000);
-        int n = s.length();
-        int num = 0;
-        num = map.get(s.charAt(n - 1));
-        for (int i = n - 2; i >= 0; i--) {
-            if (map.get(s.charAt(i)) < map.get(s.charAt(i+1))) {
-                num -= map.get(s.charAt(i));
-            } else {
-                num += map.get(s.charAt(i));
-            }
+        int n=s.length()-1;
+        
+        int num=map.get(s.charAt(n));
+        // System.out.println(num);
+        for(int i=n-1;i>=0;i--){
+         if(map.get(s.charAt(i))<map.get(s.charAt(i+1))){
+            num-=map.get(s.charAt(i));
+         }else{
+             num+=map.get(s.charAt(i));
+         }
         }
         return num;
     }
