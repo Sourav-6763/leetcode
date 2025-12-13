@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sourav-6763/leetcode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sourav-6763/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sourav-6763/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Sourav-6763/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourav-6763/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
