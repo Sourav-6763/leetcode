@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Sourav-6763/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sourav-6763/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Sourav-6763/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [2614-prime-in-diagonal](https://github.com/Sourav-6763/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourav-6763/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Sourav-6763/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sourav-6763/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Sourav-6763/leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
+| [2614-prime-in-diagonal](https://github.com/Sourav-6763/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2634-minimum-common-value](https://github.com/Sourav-6763/leetcode/tree/master/2634-minimum-common-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sourav-6763/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3221-find-the-peaks](https://github.com/Sourav-6763/leetcode/tree/master/3221-find-the-peaks) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sourav-6763/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Sourav-6763/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sourav-6763/leetcode/tree/master/0200-number-of-islands) |
+| [2614-prime-in-diagonal](https://github.com/Sourav-6763/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -583,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Sourav-6763/leetcode/tree/master/0937-online-stock-span) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Sourav-6763/leetcode/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
