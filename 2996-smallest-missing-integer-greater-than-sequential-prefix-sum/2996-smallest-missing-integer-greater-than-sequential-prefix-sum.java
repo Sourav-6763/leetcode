@@ -16,7 +16,6 @@ class Solution {
                 break;
             }
         }
-        System.out.println(sum);
         while(map.containsKey(sum)){
           sum++; 
         }
