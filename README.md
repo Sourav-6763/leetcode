@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sourav-6763/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Sourav-6763/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2614-prime-in-diagonal](https://github.com/Sourav-6763/leetcode/tree/master/2614-prime-in-diagonal) |
+| [2652-sum-multiples](https://github.com/Sourav-6763/leetcode/tree/master/2652-sum-multiples) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourav-6763/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
