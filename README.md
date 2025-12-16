@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sourav-6763/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sourav-6763/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Sourav-6763/leetcode/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Sourav-6763/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sourav-6763/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sourav-6763/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sourav-6763/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sourav-6763/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sourav-6763/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Sourav-6763/leetcode/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Sourav-6763/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sourav-6763/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sourav-6763/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sourav-6763/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sourav-6763/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sourav-6763/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Sourav-6763/leetcode/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Sourav-6763/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sourav-6763/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sourav-6763/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sourav-6763/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Sourav-6763/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sourav-6763/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sourav-6763/leetcode/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Sourav-6763/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sourav-6763/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sourav-6763/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sourav-6763/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
