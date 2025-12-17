@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/Sourav-6763/leetcode/tree/master/3221-find-the-peaks) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sourav-6763/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourav-6763/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3701-compute-alternating-sum](https://github.com/Sourav-6763/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sourav-6763/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sourav-6763/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Sourav-6763/leetcode/tree/master/0415-add-strings) |
+| [3701-compute-alternating-sum](https://github.com/Sourav-6763/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Bucket Sort
 |  |
 | ------- |
