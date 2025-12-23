@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Sourav-6763/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sourav-6763/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sourav-6763/leetcode/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/Sourav-6763/leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/Sourav-6763/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sourav-6763/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/Sourav-6763/leetcode/tree/master/0415-add-strings) |
@@ -611,4 +612,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sourav-6763/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sourav-6763/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sourav-6763/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
