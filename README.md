@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sourav-6763/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Sourav-6763/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/Sourav-6763/leetcode/tree/master/2614-prime-in-diagonal) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Sourav-6763/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/Sourav-6763/leetcode/tree/master/2652-sum-multiples) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourav-6763/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
