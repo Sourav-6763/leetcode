@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Sourav-6763/leetcode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sourav-6763/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sourav-6763/leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Sourav-6763/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sourav-6763/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sourav-6763/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Sourav-6763/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
